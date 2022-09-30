@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://assemblyofcitizens.org/archive/2022-06-04-speech/</loc>
+    <lastmod>2022-09-30T09:45:23-04:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://assemblyofcitizens.org/en/archive/2022-06-04-speech/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://assemblyofcitizens.org/archive/2022-06-04-speech/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://assemblyofcitizens.org/</loc>
+    <lastmod>2022-09-30T09:45:23-04:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://assemblyofcitizens.org/en/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://assemblyofcitizens.org/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://assemblyofcitizens.org/info/</loc>
+    <lastmod>2022-09-30T09:45:23-04:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://assemblyofcitizens.org/en/info/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://assemblyofcitizens.org/info/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://assemblyofcitizens.org/join/</loc>
+    <lastmod>2022-09-30T09:45:23-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://assemblyofcitizens.org/info/principles/</loc>
+    <lastmod>2022-09-30T09:45:23-04:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://assemblyofcitizens.org/en/info/principles/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://assemblyofcitizens.org/info/principles/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://assemblyofcitizens.org/info/schedule/</loc>
+    <lastmod>2022-09-30T09:45:23-04:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://assemblyofcitizens.org/en/info/schedule/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://assemblyofcitizens.org/info/schedule/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://assemblyofcitizens.org/archive/</loc>
+    <lastmod>2022-09-30T09:45:23-04:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://assemblyofcitizens.org/en/archive/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://assemblyofcitizens.org/archive/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://assemblyofcitizens.org/categories/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://assemblyofcitizens.org/en/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://assemblyofcitizens.org/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://assemblyofcitizens.org/tags/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://assemblyofcitizens.org/en/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://assemblyofcitizens.org/tags/"
+                />
+  </url>
+  
+</urlset>
